@@ -2,6 +2,16 @@
 JSON to POJO in JAVA 
 
 
+
+
+
+
+
+
+
+
+
+
 package com.jsontopojo;
 import java.util.ArrayList;
 import java.util.HashMap;
