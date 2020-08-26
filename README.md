@@ -2,16 +2,6 @@
 JSON to POJO in JAVA 
 
 
-
-
-
-
-
-
-
-
-
-
 package com.jsontopojo;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -20,8 +10,6 @@ import java.util.Map;
 import com.fasterxml.jackson.annotation.JsonAnyGetter;
 import com.fasterxml.jackson.annotation.JsonAnySetter;
 import org.apache.commons.lang.builder.ToStringBuilder;
-
-@JsonInclude(JsonInclude.Include.NON_NULL)
 @JsonPropertyOrder({
     "about",
     "created",
